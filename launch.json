@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BackendDollarStoreAApplication<BackendDollarStoreA>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.BackendDollarStoreA.BackendDollarStoreA.BackendDollarStoreAApplication",
+            "projectName": "BackendDollarStoreA",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
